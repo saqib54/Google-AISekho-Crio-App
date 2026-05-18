@@ -71,6 +71,25 @@ Both agents fall back to mock responses if the API key is missing, ensuring the 
 | **SQLite** | Local storage of crisis events, signals, actions, logs |
 
 ---
+## Screenshots
+<img width="483" height="602" alt="Screenshot 2026-05-18 184711" src="https://github.com/user-attachments/assets/2a9e20b3-e8ad-449b-b737-02a7e78db1f0" />
+<img width="477" height="610" alt="Screenshot 2026-05-18 184727" src="https://github.com/user-attachments/assets/d1556960-e71d-4a34-9d05-da3a1878e77e" />
+<img width="502" height="609" alt="Screenshot 2026-05-18 184741" src="https://github.com/user-attachments/assets/829945cb-b825-42c9-88f9-684a39ffb389" />
+<img width="477" height="609" alt="Screenshot 2026-05-18 184759" src="https://github.com/user-attachments/assets/19a4793c-cbe8-4a9a-b22b-22c5baac5e0c" />
+<img width="513" height="609" alt="Screenshot 2026-05-18 184813" src="https://github.com/user-attachments/assets/60957e2b-9a86-4cbd-afd9-3df11aea6449" />
+<img width="502" height="613" alt="Screenshot 2026-05-18 184833" src="https://github.com/user-attachments/assets/4624b8d8-0004-4734-8ef0-b13fc3bb3e13" />
+<img width="483" height="608" alt="Screenshot 2026-05-18 184844" src="https://github.com/user-attachments/assets/459c80a6-a243-4953-aad5-959b4f98a5df" />
+<img width="509" height="616" alt="Screenshot 2026-05-18 184907" src="https://github.com/user-attachments/assets/781bd76e-adff-4f58-9f79-2de2b2631768" />
+
+<img width="479" height="568" alt="Screenshot 2026-05-18 184924" src="https://github.com/user-attachments/assets/801df4ad-405f-415d-a2a9-1272d72d6e3b" />
+<img width="490" height="593" alt="Screenshot 2026-05-18 184939" src="https://github.com/user-attachments/assets/c199b1d8-93e6-4712-ab60-6eb4165a3e79" />
+<img width="478" height="615" alt="Screenshot 2026-05-18 184951" src="https://github.com/user-attachments/assets/9e5812f8-f135-49f3-9028-65f7ede66969" />
+<img width="477" height="581" alt="Screenshot 2026-05-18 185026" src="https://github.com/user-attachments/assets/2b79063b-cc68-4ec4-8c16-ba23e9d05bad" />
+
+<img width="488" height="610" alt="Screenshot 2026-05-18 185037" src="https://github.com/user-attachments/assets/db563ac6-5edd-4806-9954-efcea5419a7d" />
+
+---
+
 
 ## Folder Structure
 
