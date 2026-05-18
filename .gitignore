@@ -1,0 +1,12 @@
+node_modules/
+.env
+.expo/
+.idea/
+.vscode/
+dist/
+ciro-mobile/node_modules/
+ciro-backend/node_modules/
+ciro-mobile/.expo/
+ciro-mobile/dist/
+ciro-mobile/.firebase/
+*.log
