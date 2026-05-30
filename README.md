@@ -1,3 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=CIRO&fontSize=52&fontColor=ffffff&animation=twinkling" alt="Header"/>
+
+# 🚨 CIRO — Crisis Intelligence & Response Orchestrator
+**AI-Powered Crisis Management Platform | Multi-Agent Swarm • Gemini 1.5 Pro • Disaster Response**
+
+[![Hackathon](https://img.shields.io/badge/Google%20Antigravity-Hackathon-E53935?style=for-the-badge&logo=google&logoColor=white)](https://github.com)
+[![Multi-Agent Swarm](https://img.shields.io/badge/Multi--Agent-Swarm-2980B9?style=for-the-badge&logo=bambulab&logoColor=white)](https://github.com)
+[![Gemini Powered](https://img.shields.io/badge/Gemini-Powered-8E44AD?style=for-the-badge&logo=googlegemini&logoColor=white)](https://github.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00CEC9?style=for-the-badge&logo=expo&logoColor=white)](https://your-username.github.io/ciro-app)
+
+### Google Antigravity Hackathon — Challenge 3
 # CIRO — Crisis Intelligence & Response Orchestrator
 ### Google Antigravity Hackathon — Challenge 3
 
